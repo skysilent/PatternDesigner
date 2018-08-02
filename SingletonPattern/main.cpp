@@ -7,7 +7,9 @@
 //#include"CompositePattern.h"
 //#include"DecoratorPattern.h"
 //#include"FacadePattern.h"
-#include"FactoryMethodPattern.h"
+//#include"FactoryMethodPattern.h"
+//#include"FlyweightPattern.h"
+#include"ExpressionPattern.h"
 using namespace std;
 int main() {
 	/*Singleton *singleton = Singleton::getInstance();
