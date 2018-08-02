@@ -4,7 +4,6 @@
 
 *.suo
 *.ilk
-*.exe
 *.pdb
 *.db
 *.opendb
@@ -12,3 +11,6 @@
 *.log
 *.tlog
 *.idb
+Debug/*
+SingletonPattern/Debug/*
+SingletonPattern/.vscode/*
