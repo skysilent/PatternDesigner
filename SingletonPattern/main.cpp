@@ -8,8 +8,9 @@
 //#include"DecoratorPattern.h"
 //#include"FacadePattern.h"
 //#include"FactoryMethodPattern.h"
-//#include"FlyweightPattern.h"
-#include"ExpressionPattern.h"
+////#include"FlyweightPattern.h"
+////#include"ExpressionPattern.h"
+//#include"IteratorPattern.h"
 using namespace std;
 int main() {
 	/*Singleton *singleton = Singleton::getInstance();
@@ -23,7 +24,10 @@ int main() {
 	/*AdapterClassA a;
 	AdapterChanger ac = AdapterChanger(a);
 	ac.PRINT();*/
-
+	//ICollections *c = new ConcreteCollection();
+	//IIterator *ii = new ConcreteIterator(c);
+	//cout << ii->hasNext() << endl;
+	//cout << ii->isFirst() << endl;
 	system("pause");
 
 }
