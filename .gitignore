@@ -2,15 +2,8 @@
 # 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
 ################################################################################
 
-*.suo
-*.ilk
-*.pdb
-*.db
-*.opendb
-*.obj
-*.log
-*.tlog
-*.idb
+.vs/*
+*.Vc.db
 Debug/*
 SingletonPattern/Debug/*
 SingletonPattern/.vscode/*
