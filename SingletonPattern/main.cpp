@@ -6,7 +6,8 @@
 //#include "CommandPattern.h"
 //#include"CompositePattern.h"
 //#include"DecoratorPattern.h"
-#include"FacadePattern.h"
+//#include"FacadePattern.h"
+#include"FactoryMethodPattern.h"
 using namespace std;
 int main() {
 	/*Singleton *singleton = Singleton::getInstance();
@@ -20,6 +21,7 @@ int main() {
 	/*AdapterClassA a;
 	AdapterChanger ac = AdapterChanger(a);
 	ac.PRINT();*/
+
 	system("pause");
 
 }

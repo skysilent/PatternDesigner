@@ -154,11 +154,11 @@
     <ClInclude Include="FacadePattern.h" />
     <ClInclude Include="FactoryMethodPattern.h" />
     <ClInclude Include="FactoryPattern.h" />
+    <ClInclude Include="FlyweightPattern.h" />
     <ClInclude Include="ResponsibilityChainPattern.h" />
     <ClInclude Include="Singleton.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FactoryPattern.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Singleton.cpp" />
   </ItemGroup>
