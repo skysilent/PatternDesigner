@@ -156,7 +156,9 @@
     <ClInclude Include="FactoryMethodPattern.h" />
     <ClInclude Include="FactoryPattern.h" />
     <ClInclude Include="FlyweightPattern.h" />
+    <ClInclude Include="IntermediaryPattern.h" />
     <ClInclude Include="IteratorPattern.h" />
+    <ClInclude Include="MementoPattern.h" />
     <ClInclude Include="ResponsibilityChainPattern.h" />
     <ClInclude Include="Singleton.h" />
   </ItemGroup>

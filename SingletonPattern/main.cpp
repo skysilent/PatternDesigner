@@ -11,6 +11,8 @@
 ////#include"FlyweightPattern.h"
 ////#include"ExpressionPattern.h"
 //#include"IteratorPattern.h"
+//#include"IntermediaryPattern.h"
+#include"MementoPattern.h"
 using namespace std;
 int main() {
 	/*Singleton *singleton = Singleton::getInstance();
@@ -28,6 +30,9 @@ int main() {
 	//IIterator *ii = new ConcreteIterator(c);
 	//cout << ii->hasNext() << endl;
 	//cout << ii->isFirst() << endl;
+	Orginisor orgin;
+	CareTaker ctaker;
+
 	system("pause");
 
 }

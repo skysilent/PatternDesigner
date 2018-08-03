@@ -54,6 +54,12 @@
     <ClInclude Include="IteratorPattern.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="IntermediaryPattern.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MementoPattern.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Singleton.cpp">
