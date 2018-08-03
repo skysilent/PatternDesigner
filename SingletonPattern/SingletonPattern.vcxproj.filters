@@ -68,5 +68,8 @@
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="ObserverPattern.h">
+      <Filter>头文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
